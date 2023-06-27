@@ -2,6 +2,10 @@
 ## Purpose
 Provide a graphical interface, so that people who don't know the command line can also use bioinformatics tools to easily analyze gene editing effects.
 
+## Notice
+1. This document is translated with New Bing AI. You may refer to the [original doc](https://github.com/Hanhui-Ma-Lab/NGS_Tools/blob/master/README_ZH.md) in Chinese.
+2. This is the pubish version, for later update, you may refer to [here](https://github.com/Masterchiefm/NGS_Tools)
+
 ## Video Tutorial
 [Bilibili-You can also use amplicon sequencing to analyze gene editing efficiency by yourself without Linux](https://www.bilibili.com/video/BV1q84y1w7HH/)
 

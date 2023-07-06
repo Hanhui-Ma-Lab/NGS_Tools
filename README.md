@@ -3,7 +3,7 @@
 Provide a graphical interface, so that people who don't know the command line can also use bioinformatics tools to easily analyze gene editing effects.
 
 ## Notice
-1. This document is translated with New Bing AI. You may refer to the [original doc](https://github.com/Hanhui-Ma-Lab/NGS_Tools/blob/master/README_ZH.md) in Chinese.
+1. This document is translated with New Bing AI. You may refer to the [Original doc in Chinese](https://github.com/Hanhui-Ma-Lab/NGS_Tools/blob/master/README_ZH.md) .
 2. This is the pubish version, for later update, you may refer to [here](https://github.com/Masterchiefm/NGS_Tools)
 3. We provide Chinese version only. If you don't know it, learn it.
 

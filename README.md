@@ -7,22 +7,20 @@ Provide a graphical interface, so that people who don't know the command line ca
 2. This is the pubish version, for later update, you may refer to [here](https://github.com/Masterchiefm/NGS_Tools)
 
 ## Video Tutorial
-[Bilibili-You can also use amplicon sequencing to analyze gene editing efficiency by yourself without Linux](https://www.bilibili.com/video/BV1q84y1w7HH/)
+[Bilibili-Use amplicon sequencing to analyze gene editing efficiency by yourself without any knowledge of Linux](https://www.bilibili.com/video/BV1q84y1w7HH/)
 
 Remember to tip after watching
 
 ## Features
 1. Provide a graphical interface for bcl2fastq, which can split the data from the machine (demultiplex).
-For detailed instructions, please refer to [illumina explanation](https://support.illumina.com/sequencing/sequencing_software/bcl2fastq-conversion-software.html)
+For detailed instructions, please refer to [illumina document](https://support.illumina.com/sequencing/sequencing_software/bcl2fastq-conversion-software.html)
 2. Provide a graphical interface for [CRISPResso2](https://github.com/pinellolab/CRISPResso2), which can batch analyze HDR, PE, BE, NHEJ.
 3. Collect editing data and summarize it into an excel table.
 4. One-click installation of analysis environment
 
 
 ## Running on Windows
-This program can only run on Linux systems. If you use Windows, you can also use it in the Linux subsystem of Windows, but you need to configure it slightly.
-
-Or download Virtual Box, install Ubuntu or other systems in the virtual machine to run this program.
+This program can only run on Linux systems. If you use Windows, you can also use it in the Linux subsystem of Windows, but you need to configure it slightly.Or download Virtual Box, install Ubuntu Desktop version or other desktop distribution in the virtual machine to run this program. We recomend to use WSL2, which is of better performance than virtual machine and we provide a tutor below.
 
 If you use Linux Subsystem for Windows (WSL), please refer to [this guide](Windows_HELP/HELP_WIN.md) for configuration. After completing the configuration, **continue to view the relevant content of running on Linux system**.
 

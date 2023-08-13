@@ -4,6 +4,8 @@ Provide a graphical interface, so that people who don't know the command line ca
 
 ## Cite this work
 ![doi](https://zenodo.org/badge/DOI/10.5281/zenodo.8243045.svg)
+
+
 If this work helps, please cite my work.
 
 It is recommended that citing the script by a link (such as: GVSrun(https://zenodo.org/badge/DOI/10.5281/)) or refer to this page Ways to cite a GitHub Repo to promote reproducibility of your work.
@@ -14,8 +16,9 @@ It is recommended that citing the script by a link (such as: GVSrun(https://zeno
 ## Notice
 1. This document is translated with New Bing AI. You may refer to the [Original doc in Chinese](https://github.com/Hanhui-Ma-Lab/NGS_Tools/blob/master/README_ZH.md) .
 2. This is the pubish version, for later update, you may refer to [here](https://github.com/Masterchiefm/NGS_Tools)
-3. I hope you can appriciate my work and my contribution.
-
+3. I hope you can appriciate my work and my contribution.My work may helped someone.
+4. The binnary file will not be provided because someone dont think my work important. You may compile or run from the source code.(2023.08.13 add this note.)
+   
 ## Video Tutorial
 [Bilibili-Use amplicon sequencing to analyze gene editing efficiency by yourself without any knowledge of Linux](https://www.bilibili.com/video/BV1q84y1w7HH/)
 

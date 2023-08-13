@@ -8,7 +8,12 @@ Provide a graphical interface, so that people who don't know the command line ca
 
 If this work helps, please cite my work.
 
-It is recommended that citing the script by a link (such as: GVSrun(https://zenodo.org/badge/DOI/10.5281/)) or refer to this page Ways to cite a GitHub Repo to promote reproducibility of your work.
+You may cite as
+Qiqin Mo. (2023). Hanhui-Ma-Lab/NGS_Tools: public version (1.5.0). Zenodo. https://doi.org/10.5281/zenodo.8243045
+
+or
+
+It is recommended that citing the script by a link (such as: NGS_Tools(https://doi.org/10.5281/zenodo.8243045)) or refer to this page [Ways to cite a GitHub Repo](https://www.wikihow.com/Cite-a-GitHub-Repository)to promote reproducibility of your work.
 
 
 

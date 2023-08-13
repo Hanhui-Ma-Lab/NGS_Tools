@@ -3,8 +3,12 @@
 Provide a graphical interface, so that people who don't know the command line can also use bioinformatics tools to easily analyze gene editing effects.
 
 ## Cite this work
-If this work helps, please cite my work.
 ![doi](https://zenodo.org/badge/DOI/10.5281/zenodo.8243045.svg)
+If this work helps, please cite my work.
+
+It is recommended that citing the script by a link (such as: GVSrun(https://zenodo.org/badge/DOI/10.5281/)) or refer to this page Ways to cite a GitHub Repo to promote reproducibility of your work.
+
+
 
 
 ## Notice

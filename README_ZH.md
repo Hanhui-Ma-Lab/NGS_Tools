@@ -55,19 +55,10 @@ CPU建议8核心以上
 ```
 
 ## 运行
-1. 无需安装，下载即可使用。
-
-下载链接：
-
-[Gitee Release](https://gitee.com/MasterChiefm/NGS_Tools/releases/latest)
-
-或者
-
-[GitHub Release](https://github.com/Masterchiefm/NGS_Tools/releases/latest)
-
----
-
-2. 下载后右键点击属性
+1. clone 本项目，进入目录
+2. 使用pip install requirements.txt安装依赖，然后即可直接运行 pytho3 NGS_Tools.py
+3. 推荐进行编译然后运行，使用pyinstaller打包成二进制文件即可：pyinstaller NGS_Tools.py
+4. 对着程序右键点击属性
 
 ![properties](1.png)
 

@@ -8,21 +8,46 @@ Provide a graphical interface, so that people who don't know the command line ca
 
 If this work helps, please cite my work.
 
-You may cite as
-Qiqin Mo. (2023). Hanhui-Ma-Lab/NGS_Tools: public version (1.5.0). Zenodo. https://doi.org/10.5281/zenodo.8243045
-
-or
-
 It is recommended that citing the script by a link (such as: NGS_Tools(https://doi.org/10.5281/zenodo.8243045)) or refer to this page [Ways to cite a GitHub Repo](https://www.wikihow.com/Cite-a-GitHub-Repository)to promote reproducibility of your work.
 
+## How to use
+### Preperation
+You need a Linux system with a graphic user interface(GUI). The Ubuntu 22.04 was tested and recommeded. For the hardware, a 12 core CPU or higher is recommeded. If the core is under 12, it will be a long time to annalyse.
 
+After install the linux system, a conda enviroment is required. This script set ~/miniconda3 as conda directory, so please install miniconda 3 and keep all defaults, especially the installation path. For mininconda installation, please check [here](https://docs.conda.io/projects/miniconda/en/latest/)
+
+## Run and Ccompile
+### Install requirements
+Clone this Repo and cd into it. Then run the code as follow:
+
+A python10 env is tested, higher version works, too. Before you run the code, install python3.10 and other requirements.
+```
+pip install -r requirements.txt
+```
+### Enjoy
+Now you can run and debug:
+```
+python3 NGS_Tools.py
+```
+
+OR, you can compile it.
+
+you can compile any module to a binary file.
+
+```
+pyinstaller module_you_want_to_compile.py
+```
+
+for example, 
+```
+pyinstaller BE.py
+```
 
 
 ## Notice
 1. This document is translated with New Bing AI. You may refer to the [Original doc in Chinese](https://github.com/Hanhui-Ma-Lab/NGS_Tools/blob/master/README_ZH.md) .
 2. This is the pubish version, for later update, you may refer to [here](https://github.com/Masterchiefm/NGS_Tools)
 3. I hope you can appriciate my work and my contribution.My work may helped someone.
-4. The binnary file will not be provided because someone dont think my work important. You may compile or run from the source code.(2023.08.13 add this note.)
    
 ## Video Tutorial
 [Bilibili-Use amplicon sequencing to analyze gene editing efficiency by yourself without any knowledge of Linux](https://www.bilibili.com/video/BV1q84y1w7HH/)
@@ -58,41 +83,24 @@ Other requirements:
 1. bcl2fastq requires memory + swap partition at least 32GB, recommend using 32GB or more memory CPU recommended 8 cores or more
 
 
-## Run
-1. No need to install, download and use.
+## Run from binary file
 
-Download link:
-
-[Gitee Release](https://gitee.com/MasterChiefm/NGS_Tools/releases/latest)
-
-or
-
-[GitHub Release](https://github.com/Masterchiefm/NGS_Tools/releases/latest)
-
----
-
-2. Right-click on the properties after downloading
-
-![properties](1.png)
-
------
-
-3. Check allow as executable program in permissions and close the window
+1. Check allow as executable program in permissions and close the window
 
 ![](2.png)
 
 ----
-4. Right-click on the program and click run, or double-click to run
+2. Right-click on the program and click run, or double-click to run
 
 ![](3.png)
 
 ----
-5. Choose the function you need
+3. Choose the function you need
 ![](4.png)
 
 ---
 
-6. Be sure to install the analysis environment for the first time
+4. Be sure to install the analysis environment for the first time
 
 If not installed, there will be a prompt here, if installed, it will be displayed as shown in the figure,
 The installation process will freeze for a long time, there is no output in the foreground, please be patient
